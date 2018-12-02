@@ -1,6 +1,6 @@
 //META{"name":"NoGameNoLife_Theme","description":"I hope you enjoy the theme","author":"DevilsTheAvenged","version":"1.4"}*//{}
 .app {
-	background: url("https://wallpapercave.com/wp/wp1825485.jpg") 0/cover !important;
+	background: url("http://www.lol-wallpapers.com/wp-content/uploads/2018/11/KDA-POPSTARS-KDA-Akali-ft-Madison-Beer-GI-DLE-Jaira-Burns-HD-4k-Wallpaper-Background-Official-Art-Artwork-League-of-Legends-lol-19.jpg") 0/cover !important;
 }
 /* fix not having a background image anymore */
 .layers-3iHuyZ, .layer-3QrUeG, .container-2lgZY8, .typing-2GQL18 {
@@ -84,7 +84,7 @@
     background-color: transparent;
 }
 .theme-dark .keybindShortcut-1BD6Z1 span {
-    background-color: #4F1C4F;
+    background-color: #421c4f;
     border-color: transparent;
     box-shadow: none;
     color: white;
@@ -165,7 +165,7 @@
 }
 .theme-dark .popout .messages-popout-wrap,
 .theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX {
-    background-color: #4F1C4F !important;
+    background-color: #331c4f !important;
     border: none;
     box-shadow: none;
 }
